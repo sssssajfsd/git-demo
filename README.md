@@ -7,3 +7,5 @@ importance 和 2428896862@qq.com
 git init
 
 vim 中 yy是复制，p是粘贴
+
+git reflog 和 git log可以查看提交记录
