@@ -9,3 +9,9 @@ git init
 vim 中 yy是复制，p是粘贴
 
 git reflog 和 git log可以查看提交记录
+
+git reset --hard 编号 可以回到之前的版本
+
+分支等相关操作
+git branch -v 查看分支
+git branch 分支名 创建名为xx的分支
